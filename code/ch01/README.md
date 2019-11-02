@@ -1,5 +1,7 @@
 Sebastian Raschka, 2015
 
+Das ist die Testversion mit kleinen Änderungen von mir
+
 Python Machine Learning - Code Examples
 
 
